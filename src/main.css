@@ -1,2 +1,7 @@
 @import 'tailwindcss';
 @import 'tw-animate-css';
+
+body {
+	font-family: Inter, sans-serif;
+	background: #fff;
+}
